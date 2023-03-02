@@ -7,7 +7,7 @@ This is a sample graphic design of ship I created this with illustrator
 ## Pictures
 
 <div style="text-align: center">
- <img src="https://github.com/MarzieMemarian/deer-and-moon-logo/blob/master/screenshot/deer%20and%20moon%20logo.jpg?raw=true" width="200"/>
+ <img src="https://github.com/MarzieMemarian/glass/blob/master/screenshot/glass.jpg?raw=true" width="200"/>
 
 </div>
 ## Usage
